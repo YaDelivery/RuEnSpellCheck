@@ -1,9 +1,9 @@
 {
-  "name": "kozz/spell-check",
+  "name": "yadelivery/spell-check",
   "type": "library",
   "description": "Spell Check",
   "keywords": ["Spell Check"],
-  "homepage": "https://github.com/urakozz/RuEnSpellCheck",
+  "homepage": "https://github.com/yadelivery/RuEnSpellCheck",
   "license": "MIT",
 
   "authors": [
